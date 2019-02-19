@@ -1,0 +1,16 @@
+{
+    "name": "strakez/6ixtalk-inquiry",
+    "description": "Survey system for gathering public knowledge of Toronto's sub-culture language use",
+    "type": "project",
+    "require": {
+        "php": "7.x",
+        "symfony/dotenv": "4.1.1"
+    },
+    "authors": [
+        {
+            "name": "Steven Straker",
+            "email": "contact@strakez.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
